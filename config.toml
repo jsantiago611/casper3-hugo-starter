@@ -31,7 +31,7 @@ weight = 40
 [params]
 description = "Just a demo site for the Casper3 theme ported to Hugo"
 facebook = "https://facebook.com"
-github = "https://github.com/jonathanjanssens"
+github = "https://www.github.com/jonathanjanssens"
 logo = "/images/ghost-transparent.png"
 mainSections = ["post"]
 twitter = "https://twitter.com"
